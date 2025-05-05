@@ -1,4 +1,4 @@
-# KandidatarbeteVT25 - Trender i extrem nederbörd
+# KandidatarbeteVT25 - Extremvärdesanalys av nederbördstrender i Sverige
 Ett kandidatarbete vid institutionen för Matematiska vetenskaper, Göteborgs universitet/Chalmers tekniska högskola.
 
 compressed_data.zip innehåller datan som använts vid extremvärdesanalysen. 
